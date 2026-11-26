@@ -1,6 +1,6 @@
 # Data Science 2017
 
-Exercises and mini projects from my 2017 Springboard Data Science Career Track and Dataquest coursework, combined from separate repositories. Each folder was its own repository, and its full commit history is kept here.
+Exercises and projects from my 2017 Springboard Data Science Career Track and Dataquest coursework, combined from separate repositories. Each folder was its own repository, and its full commit history is kept here.
 
 | Folder | Topic | Language |
 |---|---|---|
@@ -19,5 +19,6 @@ Exercises and mini projects from my 2017 Springboard Data Science Career Track a
 | `sql` | Yammer user engagement analysis | SQL |
 | `dataquest` | Dataquest guided projects | Python |
 | `capstone-proposal` | Capstone project ideas and proposal | docx |
+| `nlp/european-language-classification` | Detecting European languages on the Europarl corpus with n-gram logistic regression (Startup.ml challenge) | Python |
 
 The original repositories are archived on GitHub and remain read-only.
