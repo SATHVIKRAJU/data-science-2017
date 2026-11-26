@@ -1,4 +1,4 @@
-# Data Science Exercises
+# Data Science 2017
 
 Exercises and mini projects from my 2017 Springboard Data Science Career Track and Dataquest coursework, combined from separate repositories. Each folder was its own repository, and its full commit history is kept here.
 
